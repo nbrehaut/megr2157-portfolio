@@ -2,7 +2,7 @@
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
-To the reader, 
+**To the reader,** 
 
 This portfolio is intended for future students, professors, employers, and anyone else who may find themselves interacting with it. Below is the description for the format of the portfolio as well as the contents. 
 
