@@ -7,5 +7,3 @@ I am a mechanical engineering major at UNC Charlotte, I am also enrolled for a m
 **WHAT DOES IT MEAN TO DEFENND AN ENGINEERING DECISION : AND DO YOU CURRENTLY KNOW HOW TO DO IT?** 
 
 Currently, I am unsure exactly what it means to defend an engineering decision besides the obvious interpretation of it. I would assume to defend one, you must provide factual reasoning and calculations that support your stance on the matter.
-
-I took about 2.5 hours on this assignment.
