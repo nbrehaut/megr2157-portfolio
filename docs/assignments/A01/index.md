@@ -63,3 +63,6 @@ One change that I made to the template was the color. I decided to make the bord
 **Your Documentation Standard**
 
 The quality bar that I am commiting to for every assignment is high. I want every assignment's format and effort to look uniform throughout the whole portfolio. 
+
+_I took about 2.5 hours on this assignment.
+_
