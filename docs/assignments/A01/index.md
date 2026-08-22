@@ -16,6 +16,7 @@ This portfolio is very easily navigated in my opinion. There are a lot of button
 This portfolio does not allow for easily accessible findings of personal projects. However, there is a lot of shown work which definitely would allow for a colleague to reproduce or at the very least understand the work that is done to create each project. I would also say the author did a good job showing the design decisions and explains them for the reader. The tone is professional in most areas, which looks good for any company or colleague reading.
 
 <img width="346" height="526" alt="image" src="https://github.com/user-attachments/assets/49d954f0-4941-4757-b273-5d23176b1d51" />
+
  **Product Analysis -** Ballpoint Pen
 
 
