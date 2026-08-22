@@ -18,6 +18,8 @@ This portfolio does not allow for easily accessible findings of personal project
 
 **Product Analysis -** Ballpoint Pen
 <img width="346" height="526" alt="image" src="https://github.com/user-attachments/assets/49d954f0-4941-4757-b273-5d23176b1d51" />
+
+
 The pen is essential to everyday function for people in every career for the most part. Mechanically, the retractable pen converts a small pushing force into a controlled linear motion of the tip of the pen. The best equation that explains the motion of a retractable pen is Hooke's Law, F=kx. F indicates the force exerted by the pen's spring, k = the spring constant, and x= distance that the spring is pressed by the user. One assumption that would make this model valid is assuming that the pen's spring works linearly every time, making the force proportional to compression (hence Hooke's Law applies).
 **Component 1-** Body of pen
 
