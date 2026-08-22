@@ -52,7 +52,12 @@ A permeant marker such as a sharpie leaves a thicker, more noticeable trace than
 
 
 ## Decide
+**Homepage Identity Change**
 
+The change that I made to my homepage, is explaining more about what this portfolio is and what it's purpose is. I figured that this would help a reader understand more about the portfolio, and know what to look out for when traversing it. This portfolio could someday be seen by a future employer or an undergrad learning about what this class is about, or numerous other readers. Having an organized and direct description of the contents is very helpful in that case.
 
-## Communicate
+**One Intentional Customization**
 
+One change that I made to the template was the color.
+
+**Your Documentation Standard**
