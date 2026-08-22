@@ -15,7 +15,8 @@ This portfolio is very easily navigated in my opinion. There are a lot of button
 
 This portfolio does not allow for easily accessible findings of personal projects. However, there is a lot of shown work which definitely would allow for a colleague to reproduce or at the very least understand the work that is done to create each project. I would also say the author did a good job showing the design decisions and explains them for the reader. The tone is professional in most areas, which looks good for any company or colleague reading.
 
-<img width="2000" height="3200" alt="image" src="https://github.com/user-attachments/assets/89c74ad0-e1bb-4ebd-beeb-7f6727f612a0" />
+<img width="849" height="1127" alt="image" src="https://github.com/user-attachments/assets/e8f5dd93-8fb3-4eca-aab3-a6b484dba805" />
+
 Patent author - Yun-Yin Lee - US20110129285A1
 
  **Product Analysis -** Retractable Pen
