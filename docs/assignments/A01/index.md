@@ -58,6 +58,8 @@ The change that I made to my homepage, is explaining more about what this portfo
 
 **One Intentional Customization**
 
-One change that I made to the template was the color.
+One change that I made to the template was the color. I decided to make the border on the top of the website black rather than a bright green. I believe there are a few benefits to this decision, one being that it is a little easier on the eyes (less bright and in your face). Another is that the black is the color of a lot of items manufactured by mechanical engineers. One last reason is that in terms of design, having a color such as black is universally re-creatable,  rather than having a specific shade of green which is a lot less general. Having slightly different shades of the same color on your portfolio or any other branding can look very unprofessional.
 
 **Your Documentation Standard**
+
+The quality bar that I am commiting to for every assignment is high. I want every assignment's format and effort to look uniform throughout the whole portfolio. 
