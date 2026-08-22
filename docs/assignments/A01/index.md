@@ -41,6 +41,14 @@ The spring of the pen is sized perfectly to fit right under a parturition that i
 **Component 3-** Pen Thrust Device / Plunge
 The thrust device and plunge of the pen work together in unison to apply a force directly downwards on the spring off the pen, pushing the tip of the ink cartridge out of a slit cut on the tip of the threaded pen tip cover. The plunge acts as a button for the user to click, and is fit snugly into the top of the pen's body, with excess plastic that goes inside of the body and features a small hole. That small hole is filled by the thin stem of the thrust device perfectly. The other side of the thrust device (that faces the tip of the pen) transfers that pushing force into the ink cartridges' and therefore the spring, due to the fact that it's diameter is flush with the walls of the pen's body (as is the plunge). This ensures no inputs are dropped when the user clicks the pen's button. 
 
+One design choice that I think the patent's designer made on their pen is the use of jagged edges that appear to be almost puzzle like rather than using a threaded design. I can think of multiple benefits of this design choice, one being ease of design, another may be the usability being retained during more deterioration of the edges as opposed to a threaded design. 
+
+**Alternative solution 1-** Lead pencil
+A user can decide to use a lead pencil in either wooden or mechanical variant instead, and this would allow them to erase their mistakes easier. A pen typically takes white out to remove mistakes, which can permanently ruin the paper and it's contents, but a pencil's eraser typically only removes the lead.
+
+**Alternative solution 2-** Permanent Marker
+A permeant marker such as a sharpie leaves a thicker, more noticeable trace than a pen. Therefore the marker works better on surfaces that are not simply paper than a pen would.
+
 
 
 ## Decide
