@@ -1,7 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## Objective:
-Design a light weight planar truss using A500 structural steel. There are four steps outlined below. Steps 1 through 2 require FBDs as well as calculations to determine the design. The third step requires a CAD model and verification of the analytical calculations in the previous steps. ( Pins not required in CAD model)
+Design a light weight planar truss using A500 structural steel. There are four steps outlined below. Steps 1 through 2 require FBDs as well as calculations to determine the design. The third step requires a CAD model and verification of the analytical calculations in the previous steps.
 
 ## Truss Geometry:
 
