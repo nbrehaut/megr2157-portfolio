@@ -39,7 +39,9 @@ The last bit of this part of the assignment was to determine the weight of the s
 
 ## Cross-Sectional Area of Pins:
 
+In the first step of part 3, I had to list the knowns and unknowns. Next, I had to draw a quick FBD of a pin under single shear stress. Next I had to solve symbolically for the cross sectional area of the pins, which I did by relating the shear stress equation with the definition of a safety factor, as done before. Next I plugged in all of the values that I was either given or determined previously to get the minimum cross sectional area of each pin. Lastly, I solved for the diameter of each pin for use in CAD, then plugged values into W=pV for the weight of the pins. This was initially in terms of length since I had not yet determined the length of the pins, but originally planned to have pins be around 2.75 inches, which would have the weight be roughly 0.3 pounds. All of my calculations (as well as the FBD of a pin) can be seen below:
 
+<img width="800" height="800" alt="IMG_1115" src="https://github.com/user-attachments/assets/a5e5335e-1a3b-4840-ba10-511a0bc92c27" />
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
