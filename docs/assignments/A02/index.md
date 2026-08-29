@@ -29,6 +29,13 @@ Luckily in the fourth attempt of making the truss's FBD, I did not run into any 
 
 ## Minimum Cross-Sectional Area:
 
+Luckily, determining the minimum cross sectional area for the steel used for the steel beams went a lot smoother in terms of user errors. First I determined my knowns and unknowns which is pretty self-explanatory. Creating the symbolic formula for minimum cross sectional area was relatively straightforward. Equaling  σ=F/A and σ (allowed) = safety factor/yield since the stress we want is the allowed stress, and then solving algebraically for Amin. The next step was converting 37.97kN to pounds to get the area in square inches, I also converted it into square mm just incase I needed it later on. The Yield strength was found on google and is for A500 (assumed Grade B) steel. The calculations are shown below:
+
+<img width="800" height="800" alt="IMG_1109" src="https://github.com/user-attachments/assets/881d38c4-e44d-45fd-a7f6-6d545f16f0ca" />
+
+The last bit of this part of the assignment was to determine the weight of the steel in the truss. This was done by using the equation Volume = Area * Length. The total length was found by adding all of the members lengths, which were previously calculated. The area was determined in the previous step. I opted for imperial units due to the ease and familiarity. After finding the volume, I had to multiply by the density, which I found online but also cross referenced with the given example on the canvas page for this assignment. Even though it wasn't the same exact metal that was used by the previous student, it was a very familiar density which made me more comfortable with my findings. After plugging in numbers I obtained the combined weight of the steel frame without the pins.
+
+<img width="800" height="800" alt="IMG_1108" src="https://github.com/user-attachments/assets/8d2e1ef6-821d-4021-9afc-64fb106df36d" />
 
 
 ## Decide
