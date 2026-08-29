@@ -37,6 +37,9 @@ The last bit of this part of the assignment was to determine the weight of the s
 
 <img width="800" height="800" alt="IMG_1108" src="https://github.com/user-attachments/assets/8d2e1ef6-821d-4021-9afc-64fb106df36d" />
 
+## Cross-Sectional Area of Pins:
+
+
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
