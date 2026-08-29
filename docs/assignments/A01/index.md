@@ -29,26 +29,31 @@ The pen is essential to everyday function for people in every career for the mos
 <img width="3024" height="4032" alt="IMG_1009" src="https://github.com/user-attachments/assets/53e756f2-c315-4f0a-b61b-3f49f6ae94a7" />
 
 **Component 1-** Body of pen
+
 The body of the pen is made to geometrically fit the ink cartridge, clicker, spring, and button inside of it. The body is also threaded on top to allow for easily removal and reinstallation of the pen tip cover, as well as having an indent cut into it for the rubber grip to sit at an ergonomic position and not shift around. 
 
 <img width="3024" height="4032" alt="IMG_1010" src="https://github.com/user-attachments/assets/1f4fb415-e58d-4348-a39d-db0e7e389ddd" />
 
 
 **Component 2-** Spring
+
 The spring of the pen is sized perfectly to fit right under a parturition that is made on the ink cartridge for this specific pen. The spring will not shift upwards due to this, as well as not shifting downwards due to the concavity of the threaded pen tip cover.
 
 <img width="3024" height="4032" alt="IMG_1011" src="https://github.com/user-attachments/assets/c6f20c8b-dc72-4b82-8f3a-29262ea36164" />
 
 
 **Component 3-** Pen Thrust Device / Plunge
+
 The thrust device and plunge of the pen work together in unison to apply a force directly downwards on the spring off the pen, pushing the tip of the ink cartridge out of a slit cut on the tip of the threaded pen tip cover. The plunge acts as a button for the user to click, and is fit snugly into the top of the pen's body, with excess plastic that goes inside of the body and features a small hole. That small hole is filled by the thin stem of the thrust device perfectly. The other side of the thrust device (that faces the tip of the pen) transfers that pushing force into the ink cartridges' and therefore the spring, due to the fact that it's diameter is flush with the walls of the pen's body (as is the plunge). This ensures no inputs are dropped when the user clicks the pen's button. 
 
 One design choice that I think the patent's designer made on their pen is the use of jagged edges that appear to be almost puzzle like rather than using a threaded design. I can think of multiple benefits of this design choice, one being ease of design, another may be the usability being retained during more deterioration of the edges as opposed to a threaded design. 
 
 **Alternative solution 1-** Lead pencil
+
 A user can decide to use a lead pencil in either wooden or mechanical variant instead, and this would allow them to erase their mistakes easier. A pen typically takes white out to remove mistakes, which can permanently ruin the paper and it's contents, but a pencil's eraser typically only removes the lead.
 
 **Alternative solution 2-** Permanent Marker
+
 A permeant marker such as a sharpie leaves a thicker, more noticeable trace than a pen. Therefore the marker works better on surfaces that are not simply paper than a pen would.
 
 
