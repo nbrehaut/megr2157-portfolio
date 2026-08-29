@@ -14,13 +14,18 @@ The next step was to sketch a FBD for each pin, as well as determine the interna
 
 <img width="800" height="800" alt="IMG_1099" src="https://github.com/user-attachments/assets/c10ee73d-52ea-4817-9620-b8275a1b2e2b" />
 
-My next attempt was similar but with a removal of the BD member. After completing the calculations up until the minimum cross sectional area, I went back over my work. In doing so, I realized that I had a small oversight that was very important to the numbers that I was getting. I had mistakenly assumed both of the forces were being applied downwards rather than the leftmost "P"'s arrow pointing upwards. A small mistake, but one that called for another restart of calculations.
+My next attempt was similar but with a removal of the BD member. After completing the calculations up until the minimum cross sectional area, I went back over my work. In doing so, I realized that I had a small oversight that was very important to the numbers that I was getting. I had mistakenly assumed both of the forces were being applied downwards rather than the leftmost "P"'s arrow pointing upwards. A small mistake, but one that called for another restart of calculations. My work is shown below:
 
-<img width="4284" height="3968" alt="IMG_1102" src="https://github.com/user-attachments/assets/a349bd09-f6a9-4ae9-be62-de673292d61b" />
+<img width="800" height="800" alt="IMG_1102" src="https://github.com/user-attachments/assets/a349bd09-f6a9-4ae9-be62-de673292d61b" />
 
+On my 3rd attempt of the external and internal forces, I was able to calculate all of the forces up until getting to Pin C. As a part of my design process, I wanted to double check that each Fx and Fy equations would give the correct values for each member, as well as add to zero. However, I had gotten a different value for BC in pin C's FBD than the one I had calculated from pin B's. The value from pin B's FBD can be seen in the image below, and the value from pin C is not shown, however it would have been 33.3 kN of compression, a stark contrast from the previously calculated 11.1 kN of tension. After doing research on the topic and brainstorming, I determined that this could possibly be a result of removing the BD member, but decided to opt for a member connecting pins A and C this time.
 
+<img width="800" height="800" alt="IMG_1105" src="https://github.com/user-attachments/assets/f7ed2f14-5de6-4bb0-a199-023253b98855" />
 
-<img width="4032" height="3024" alt="IMG_1105" src="https://github.com/user-attachments/assets/f7ed2f14-5de6-4bb0-a199-023253b98855" />
+Luckily in the fourth attempt of making the truss's FBD, I did not run into any issues. All of my calculations checked out as well as made sense. This of course included the FBD of each pin's reaction, the setup of each Fx and Fy of each pin symbolically, and the numerical solutions to each internal/external force. The lengths of the outside dimensions are present on this FBD, and the lengths of the diagonal members are located on the first image (rough sketch), as to not clutter the final sketch. 
+
+<img width="800" height="800" alt="IMG_1106" src="https://github.com/user-attachments/assets/a8f6b114-8113-4a00-b52d-56b8e0186e63" />
+
 
 
 ## Decide
