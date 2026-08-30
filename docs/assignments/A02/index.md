@@ -46,6 +46,35 @@ In the first step of part 3, I had to list the knowns and unknowns. Next, I had 
 
 ## CAD Model of Truss System: 
 
+To start my CAD model of the metal frame of the truss system, I first made a simple extrude of a rectangle along the front plane. I also made an extrude under this one later, these two extrudes acted as my AB and CD members. Member AB can be seen below:
+
+<img width="1920" height="1200" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/62d07517-e6fa-448f-ade7-012eb4bd0bad" />
+
+Next, I brainstormed many different ways to create a pin connection at the intersection of the members. Here are some early design ideas that I had such as modeling a pin joint (scrapped due to complexity) and a circular endcap for the members (scrapped due to the pins becoming ineffective). You can see an early idea of my final design choice, as well as unfinished math that would have determined the angle between the members (rendered useless).
+
+<img width="800" height="800" alt="IMG_1123" src="https://github.com/user-attachments/assets/c3f6d645-7b8b-44ed-8723-d2e51d7b92c8" />
+
+ As you can see here, I ended up modeling the circular joint before realizing that it voided the parameters of this project (using pins instead of essentially welding the members together)
+
+ <img width="1920" height="1200" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/5c22e37f-5d37-459e-9da6-5029d40f63e4" />
+
+After scraping this idea, I decided to just move ahead and create the members, instead of figuring out their connections before. This ended up sparking an idea for me, and that was to simply physically connect them inside the Creo model, and slide the pin between the two. As I was modeling the AD member, I was brainstorming on how to physically model the connection, and originally I had the idea to use an arc as seen here:
+
+<img width="1920" height="1200" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/5b480108-0f1b-4008-a4a4-63dc6c7b37da" />
+
+After completing this connection, my next idea was to make a plane in the center of the CD member, and using it to mirror the previously made AD member across into member BC's correction position. This allowed me to speed up the process, and the plane can be seen here highlighted in green:
+
+<img width="1920" height="1200" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/479af14e-9d19-4f67-89f4-a1d2d0a901f1" />
+
+The next challenge was centering the AC component beam, and after a lot of trial and error of constraints, I ended up putting a centerline from pin A to pin C and constraining distances from it to create a centered AC member. These constraints aas well as the centerline can be seen here:
+
+<img width="1920" height="1200" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/86ce7d1b-e1c5-4530-8163-216d57fc7edf" />
+
+
+
+
+
+
 
 
 ## Engineering Lessons Learned:
