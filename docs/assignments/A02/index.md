@@ -111,20 +111,15 @@ After some very basic math, I learned that my percentage error of hand calculate
 
 <img width="800" height="800" alt="IMG_1125" src="https://github.com/user-attachments/assets/d219c818-b5d8-46bc-84d1-2f3372127155" />
 
-Here is an image of the final truss put together, as well as the files to download each prt file and the asm file:
+Here is an image of the final truss put together:
 
 <img width="1920" height="1200" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/bda431a8-3faa-47d0-a760-30b56e3463fd" />
 
-download
-
-
-
-
-
+The download links for the CAD model are submitted inside of a PDF into canvas.
 
 
 ## Engineering Lessons Learned:
 
+One main engineering lesson that I learned completing this project the last 3 days is time management. Because of the fact that I had assignments due for other classes at the same time, this project was not able to be the forefront of my focus the whole time. However, simply starting earlier on the project would allow for a slightly more relaxed atmosphere for this assignment. I would say one other larger lesson that I learned during this project is to double and triple check everything. Two major hiccups were the multitude of recalculations of the truss' forces, as well as the journey to get Creo to use the correct units for the correct values (mm instead of in) when calculating my mass. Both of these endeavors could have been avoided by really slowing down and paying very close attention to everything going on in the project. 
 
-## Communicate
-
+This assignment took me a total of 8.5 hours of work, spread out within 3 days. 
