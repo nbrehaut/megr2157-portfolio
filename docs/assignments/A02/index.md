@@ -136,4 +136,4 @@ The download links for the CAD model are submitted inside of a PDF into canvas.
 
 One main engineering lesson that I learned completing this project the last 3 days is time management. Because of the fact that I had assignments due for other classes at the same time, this project was not able to be the forefront of my focus the whole time. However, simply starting earlier on the project would allow for a slightly more relaxed atmosphere for this assignment. I would say one other larger lesson that I learned during this project is to double and triple check everything. Two major hiccups were the multitude of recalculations of the truss' forces, as well as the journey to get Creo to use the correct units for the correct values (mm instead of in) when calculating my mass. Both of these endeavors could have been avoided by really slowing down and paying very close attention to everything going on in the project. 
 
-This assignment took me a total of 8.5 hours of work, spread out within 3 days. 
+This assignment took me a total of 9 hours of work, spread out within 3 days. 
