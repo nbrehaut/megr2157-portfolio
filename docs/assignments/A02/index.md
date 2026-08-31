@@ -11,6 +11,10 @@ Create a CAD model with accurate dimensions and connections.
 Compare CAD weight predictions with hand calculations.
 Document key engineering lessons learned from the process.
 
+Given parameters: <img width="317" height="215" alt="download" src="https://github.com/user-attachments/assets/370ff78a-13f5-40bd-b1cf-1fb4f49040f0" />
+
+P=20kN, a=0.4m, b=0.3m, Point A is a pin support, Point B is a roller support.
+
 ## Truss Geometry:
 
 For the Truss's geometry, I went through a few different renditions. My first idea was a very early and brief thought of having two triangles formed by each pin, where there were truss members pointing directly vertically downwards from them, and then connecting to point D and C respectively. I decided very quickly to move on to a simpler design for the ease of this project. My next idea was very similar to what ended up being used as the final truss system, and a rough sketch is shown in this image, as well as the original idea (the original truss is on top, second idea is on the bottom).The reason I ended up choosing this design for the final truss was the simplicity and effectiveness. Also present in this image are some calculations for the lengths of each triangle's hypotenuse that shows up in the final truss.
