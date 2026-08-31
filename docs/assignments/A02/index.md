@@ -11,7 +11,9 @@ Create a CAD model with accurate dimensions and connections.
 Compare CAD weight predictions with hand calculations.
 Document key engineering lessons learned from the process.
 
-Given parameters: <img width="317" height="215" alt="download" src="https://github.com/user-attachments/assets/370ff78a-13f5-40bd-b1cf-1fb4f49040f0" />
+Given parameters: 
+
+<img width="317" height="215" alt="download" src="https://github.com/user-attachments/assets/370ff78a-13f5-40bd-b1cf-1fb4f49040f0" />
 
 P=20kN, a=0.4m, b=0.3m, Point A is a pin support, Point B is a roller support.
 
