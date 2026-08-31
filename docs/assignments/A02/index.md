@@ -50,6 +50,7 @@ To start my CAD model of the metal frame of the truss system, I first made a sim
 
 <img width="1920" height="1200" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/62d07517-e6fa-448f-ade7-012eb4bd0bad" />
 
+
 Next, I brainstormed many different ways to create a pin connection at the intersection of the members. Here are some early design ideas that I had such as modeling a pin joint (scrapped due to complexity) and a circular endcap for the members (scrapped due to the pins becoming ineffective). You can see an early idea of my final design choice, as well as unfinished math that would have determined the angle between the members (rendered useless).
 
 <img width="800" height="800" alt="IMG_1123" src="https://github.com/user-attachments/assets/c3f6d645-7b8b-44ed-8723-d2e51d7b92c8" />
@@ -58,11 +59,16 @@ Next, I brainstormed many different ways to create a pin connection at the inter
 
  <img width="1920" height="1200" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/5c22e37f-5d37-459e-9da6-5029d40f63e4" />
 
+
 After scraping this idea, I decided to just move ahead and create the members, instead of figuring out their connections before. This ended up sparking an idea for me, and that was to simply physically connect them inside the Creo model, and slide the pin between the two. As I was modeling the AD member, I was brainstorming on how to physically model the connection, and originally I had the idea to use an arc as seen here:
 
 <img width="1920" height="1200" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/5b480108-0f1b-4008-a4a4-63dc6c7b37da" />
 
-After completing this connection, my next idea was to make a plane in the center of the CD member, and using it to mirror the previously made AD member across into member BC's correction position. This allowed me to speed up the process, and the plane can be seen here highlighted in green:
+Seen on this image is a calculation for the pin's combined weight (since I had changed the length I needed due to the pin connection design) and some conversions I needed for the pin's diameter to match the minimum cross sectional area determined earlier in the project.
+
+<img width="800" height="800" alt="IMG_1124" src="https://github.com/user-attachments/assets/d543c1a2-fb84-4673-a51a-2dcc791fae29" />
+
+After completing the last connection, my next idea was to make a plane in the center of the CD member, and using it to mirror the previously made AD member across into member BC's correction position. This allowed me to speed up the process, and the plane can be seen here highlighted in green:
 
 <img width="1920" height="1200" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/479af14e-9d19-4f67-89f4-a1d2d0a901f1" />
 
@@ -70,6 +76,46 @@ The next challenge was centering the AC component beam, and after a lot of trial
 
 <img width="1920" height="1200" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/86ce7d1b-e1c5-4530-8163-216d57fc7edf" />
 
+While doing this, I also figured out that a better solution to the precious problem of physical connections between the members within the model was to create lines (making sure that the thickness of the beams stayed at the calculated 21mm). 
+
+<img width="1920" height="1200" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/06bfec5b-2c45-462b-a851-a2d559cd2b5b" />
+
+After finishing the truss's model, I realized that I had modeled the member AB from the top view rather than the front, meaning I had to extrude out holes for the pins rather than simply cutting them out of the sketch.
+
+<img width="1920" height="1200" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/510cc44a-37ad-4d6e-a1b8-3fc73ed417ea" />
+
+After a lot of tricky constraints, the holes were all cut out of the steel and the steel frame of the truss was finished.
+
+<img width="1920" height="1200" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/4230c6cd-6b41-4dbf-a366-87e586ef6f8c" />
+<img width="1920" height="1200" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/8ab0b0af-ddfd-46a6-a7b0-4946a8415153" />
+<img width="1920" height="1200" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/3864ef0f-2ce7-45a7-a456-8bab828ee8b4" />
+
+The pin was a very simple extrude downwards from the top plane
+
+<img width="1920" height="1200" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/696bde2c-5368-41fb-9d21-7ec6263cebc4" />
+
+Now it was time for the final assembly to be put together. In doing so, I had to constrain the front of the steel frame to the front plane of the assembly. Next, I added all of the pins into their respective spots, constraining the sidewalls of the pin into the sidewalls of the holes cut into the steel. I also constrained the front surface of the pin to the front surface of the frame. Both constraints can be seen here:
+
+<img width="1920" height="1200" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/cff8d0cf-33a8-409f-9e68-1ecc9846f81e" />
+<img width="1920" height="1200" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/f9d5f36e-f95b-4d55-ac07-1345fdf601a7" />
+
+After running into a few hiccups whilst creating the materials of the AS500 Grade B and hardened tool steel, I finally was left to only let Creo calculate the weight of the truss and compare it to my own. However, I was given a very large number. After around a half an hour of troubleshooting, I had to mess with the settings of units very many times to convert back into mm instead of inches, as to not mess up my measurements. I also had to remodel the pin with the correct units, since that prt file would not cooperate (Thankfully it was the pin and not the steel frame). Here is my rendition of the necesssary values for A500 Grade B steel:
+
+<img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/f9b9d35d-9282-4b80-9583-5189c41c67b7" />
+
+Lastly, I let Creo calculate my mass and this can be seen here:
+
+<img width="1920" height="1200" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/afd442ed-f418-402e-9603-f0395831ee1c" />
+
+After some very basic math, I learned that my percentage error of hand calculated weight and the weight calculated by Creo was only a 1.48% error (which could be due to rounding). 
+
+<img width="800" height="800" alt="IMG_1125" src="https://github.com/user-attachments/assets/d219c818-b5d8-46bc-84d1-2f3372127155" />
+
+Here is an image of the final truss put together, as well as the files to download each prt file and the asm file:
+
+<img width="1920" height="1200" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/bda431a8-3faa-47d0-a760-30b56e3463fd" />
+
+download
 
 
 
