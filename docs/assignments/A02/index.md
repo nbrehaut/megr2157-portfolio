@@ -130,6 +130,7 @@ Here is an image of the final truss put together:
 <img width="1920" height="1200" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/bda431a8-3faa-47d0-a760-30b56e3463fd" />
 
 The download links for the CAD model are submitted inside of a PDF into canvas, as well as below:
+
 [Google Folder for CAD Parts](https://drive.google.com/drive/folders/1_e90OgGmmlpyDNLwjTOchjgyngQfTijh?usp=drive_link)
 
 
