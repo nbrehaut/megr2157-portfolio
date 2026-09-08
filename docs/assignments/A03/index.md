@@ -55,9 +55,8 @@ The last one used in this assignment was the von Mises stress map:
 
 <img width="1080" height="675" alt="1" src="https://github.com/user-attachments/assets/18ca0508-fc46-4291-ada4-f3a8779b4ae7" />
 
-
-
-
+The maximum stress was 2693 psi from the von Mises, and yield strength of the beam was calculated to be 18130 psi. The safety factor is calculated by dividing the yield strength by the von Mises strength, giving us a safety factor of 6.73.
 
 ## Reflection:
 
+The axial deflection of the beam that I calculated was 0.009 in, as I used the maximum deflection for my calculations. Solid works gave a 0.009004. The percent difference is a 0.04% difference, likely due to rounding. This means the beam acted exactly as I had calculated. I believe that these numbers are so similar due to the very basic calculations that were done behind the scenes. Since solid works and I both assumed that the left side of the beam is fixed, and there is a perfectly uniform 500lbf force being applied on the opposite end, there is not much room for the numbers to get mixed up, except for rounding of my calculator or the CAD program. Personally, for this specific application, I would trust solid works more than hand calculations. The only reason for that is because it gives more information than the hand calculations that I did. If there was a 
