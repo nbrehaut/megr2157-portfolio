@@ -16,7 +16,10 @@ You are to design a bar which has a circular cross section where the values of t
 Our bar's material must be an aluminum with a modulus of elasticity between (8.5 and 11.5)*10^6 (mega) psi. The max axial deflection is 9 thousandths of an inch (0.009 inches).
 
 ## Hand Calcultions:
-My first step in this project was to choose a diameter for the beam that would satisfy all of the requirements of stability for the beam. I decided to use a half of an inch for the ease of calculations. Next, I searched through solid works and found an aluminum that fit the requirements of young's modulus. This material was 1060-H18. Lastly I used 500lbf in all of my calculations to ensure the beam could withstand any forces within the project's parameters. Next was to preform hand calculations. I calculated the cross sectional area, and used this value to help me solve for the required length of the beam. The latter was done using the direct tension elongation equation. 
+My first step in this project was to choose a diameter for the beam that would satisfy all of the requirements of stability for the beam. I decided to use a half of an inch for the ease of calculations. Next, I searched through solid works and found an aluminum that fit the requirements of young's modulus. This material was 1060-H18. Lastly I used 500lbf in all of my calculations to ensure the beam could withstand any forces within the project's parameters. Next was to preform hand calculations. I calculated the cross sectional area, and used this value to help me solve for the required length of the beam. The latter was done using the direct tension elongation equation. These hand calculations can be shown below:
+
+<img width="800" height="800" alt="unnamed" src="https://github.com/user-attachments/assets/a839563c-1e31-4104-a41e-dd9ddfd8b034" />
+
 
 ## Parametric Desigm:
 
