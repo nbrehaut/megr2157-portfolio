@@ -39,6 +39,24 @@ Lastly, I created all of the variables inside of solid works and ensured that my
 <img width="1920" height="1200" alt="2" src="https://github.com/user-attachments/assets/09a62ce8-26d8-4516-9b70-d75a248b574e" />
 
 ## Finite Element Analysis (FEA):
+To start the FEA in solid works, I first had to start a new study. After this, I then had to apply a fixture force to one end of the beam as shown here:
+
+<img width="1080" height="675" alt="1" src="https://github.com/user-attachments/assets/4fac99fa-9bd2-47b7-8bf1-fe37379c80e4" />
+
+Next, I applied a 500lbf pulling force to the other end. At first, the force was pushing into the beam, but I selected "reverse direction" to ensure the force was pulling. 
+
+<img width="1080" height="675" alt="1" src="https://github.com/user-attachments/assets/d287d0ad-fdf3-411c-8a43-3d59dfdba1ff" />
+
+Following this, I conducted the study. This gave me access to 3 different maps. The first of which being the deflection map: 
+
+<img width="1080" height="675" alt="1" src="https://github.com/user-attachments/assets/dbf41f07-d7ac-4995-8584-4af899b3d217" />
+
+The last one used in this assignment was the von Mises stress map:
+
+<img width="1080" height="675" alt="1" src="https://github.com/user-attachments/assets/18ca0508-fc46-4291-ada4-f3a8779b4ae7" />
+
+
+
 
 
 ## Reflection:
