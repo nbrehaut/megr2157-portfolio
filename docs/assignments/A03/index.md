@@ -1,4 +1,4 @@
-# A3 – [Topic]
+# A3 – [Parametric and FEA]
 
 ## Objective
 Use axial deflection modeling to design its dimensions
@@ -22,7 +22,21 @@ My first step in this project was to choose a diameter for the beam that would s
 
 
 ## Parametric Desigm:
+After my hand calculations I moved on to the solid works modelling. My first step in this process was creating a circle sketch in the front datum plane that had a diameter of 0.5in. 
 
+<img width="1920" height="1200" alt="2" src="https://github.com/user-attachments/assets/757da96c-4a2e-4a0d-aaad-ff925149ae16" />
+
+The next step was to extrude this circle by 35.37 inches long. 
+
+<img width="1080" height="675" alt="2" src="https://github.com/user-attachments/assets/cd3ccd48-30a2-4744-8e06-fed6c938f006" />
+
+Next, I assigned the material of 1060-H18 to the beam.
+
+<img width="1080" height="675" alt="2" src="https://github.com/user-attachments/assets/efbd89a7-44a8-4123-9966-1f8083c8305d" />
+
+Lastly, I created all of the variables inside of solid works and ensured that my math checked out with my previous hand calculations.
+
+<img width="1920" height="1200" alt="2" src="https://github.com/user-attachments/assets/09a62ce8-26d8-4516-9b70-d75a248b574e" />
 
 ## Finite Element Analysis (FEA):
 
