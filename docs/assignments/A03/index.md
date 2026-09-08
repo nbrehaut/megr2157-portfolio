@@ -64,3 +64,5 @@ The axial deflection of the beam that I calculated was 0.009 in, as I used the m
 If there was a pin hole on the left side of the bar, it would create a stress concentration. A reasonable estimate for the stress factor is about 3. We now must scale the nominal stress determined by the FEA (2693), giving us 8079 psi. Dividing 18130 by this new force would give us a safety factor of 2.24. This would still pass if the required safety factor was less than 2.25.
 
 One lesson that I learned was how to not only use solid works, but also how to run analysis on a parametric program. This will prove to be very helpful throughout my engineering career. The time I spent from start to finish on this project was just under 2 hours. 
+
+[Google Folder for CAD Parts](https://drive.google.com/drive/folders/1ZNBKqx3-fmZ55LEWRiX2LpaTdLDgYbZE?usp=drive_link)
