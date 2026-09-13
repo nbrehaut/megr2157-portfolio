@@ -8,7 +8,7 @@ Design a motor mount using the (Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5
 </p>
 
 ## Feature 1 
-For feature 1,I first started off by sketching a FBD of the feature. As shown in the supplied images on the canvas page, the motor mount separates at the connection of the two parts, with feature 1 getting the intersection as part of it's dimensions. 
+For feature 1,I first started off by sketching a FBD of the feature. As shown in the supplied images on the canvas page, the motor mount separates at the connection of the two parts, with feature 1 getting the intersection as part of it's dimensions.  ( _Appendix A_)
 
 <img width="800" height="800" alt="1" src="https://github.com/user-attachments/assets/c8ee679d-9ce9-4902-9790-34429331e3ce" />
 
@@ -42,7 +42,6 @@ As of today, 2.5 hours.
 _**Appendix A**_
 
 <img width="380" height="194" alt="image" src="https://github.com/user-attachments/assets/98e9a80b-886e-4794-818c-a10f0139201b" />
-
 
 _**Appendix B**_
 
