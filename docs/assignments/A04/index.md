@@ -36,7 +36,7 @@ After making the FBD, I solved for external forces and found the moments to be 2
 
 ## Parametric CAD Model
 
-## Lessons Learned 
+## Reflection 
 As of today, 2.5 hours.
 
 _**Appendix A**_
