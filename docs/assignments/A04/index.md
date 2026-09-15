@@ -68,8 +68,10 @@ Here is my finished motor mount:
 ## Reflection 
 As of today, 2.5 hours.
 
-[Google folder with CAD files
-]([url](https://drive.google.com/drive/folders/1-wBt3nmzCxCIUVWS0UIrUuQ9umav4i4K?usp=drive_link))
+[Google Folder with CAD Files](https://drive.google.com/drive/folders/1-wBt3nmzCxCIUVWS0UIrUuQ9umav4i4K?usp=drive_link)
+
+
+
 _**Appendix A**_
 
 <img width="380" height="194" alt="image" src="https://github.com/user-attachments/assets/98e9a80b-886e-4794-818c-a10f0139201b" />
