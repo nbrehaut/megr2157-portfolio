@@ -33,6 +33,7 @@ After making the FBD, I solved for external forces and found the moments to be 2
 <img width="1000" height="800" alt="1" src="https://github.com/user-attachments/assets/ce8d6e5e-a123-4238-bc77-ab8156da75d8" />
 
 ## Isometric Sketch
+<img width="3024" height="4032" alt="unnamed" src="https://github.com/user-attachments/assets/8c99f613-85ab-4798-8198-792a15dfcbf8" />
 
 ## Parametric CAD Model
 
@@ -66,7 +67,8 @@ Here is my finished motor mount:
 
 
 ## Reflection 
-As of today, 2.5 hours.
+This project took me just about 4.5 hours to complete. I learned more about CAD modeling using solid works, as well as learning about cantilever beams. 
+
 
 [Google Folder with CAD Files](https://drive.google.com/drive/folders/1-wBt3nmzCxCIUVWS0UIrUuQ9umav4i4K?usp=drive_link)
 
