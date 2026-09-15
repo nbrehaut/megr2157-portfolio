@@ -36,13 +36,45 @@ After making the FBD, I solved for external forces and found the moments to be 2
 
 ## Parametric CAD Model
 
+To start the CAD model, I first extruded a sketch off of the front plane to be the motor mount's base. Each side was 30mm, which meant that I had made the width of the sketch 30mm, as well as the depth of the extrude. I made the height of the sketch the previously calculated 9.5mm.
+
+<img width="1920" height="1200" alt="1" src="https://github.com/user-attachments/assets/18d292c5-f981-43d0-9c07-69cbbabadf89" />
+
+Next, I made another simple sketch off of the top of this extrude, I then extruded the sketch upwards by 85mm, as previously calculated.
+
+<img width="1920" height="1200" alt="1" src="https://github.com/user-attachments/assets/3442ecdb-b0a4-4209-a965-86f64a7d4b88" />
+
+Next, I cut a hole out of the top surface of the motor mount. This was done by selecting Extrude cut, and then creating a sketch of the hole. I used smart dimensions to ensure that the hole was the correct diameter (later changed from 22 mm to 18) to ensure a correct fit for the part. This dimension was found from the image under _Appendix B_ . The purpose of this hole is to allow the base of the motor to sit flush with the base of the motor mount. 
+
+<img width="1920" height="1200" alt="1" src="https://github.com/user-attachments/assets/f23e77c9-a103-4f30-bfa1-50c9d8c45179" />
+
+Following this hole, I created another hole that would go through the whole base of the motor mount this time. This hole was cut to allow for the shaft of the motor to go through the base, as seen in the project's supplied image (at the top of this page). I used the same techniques for this hole with smart dimensions. 
+
+<img width="1920" height="1200" alt="1" src="https://github.com/user-attachments/assets/19a58324-6cfc-405a-9aae-78e86a6574d5" />
+
+Lastly, 3.4mm holes were cut around a centered 22mm radius on the base of the motor mount. This was to account for the mounting process of the motor onto the mount, by the use of M3 bolts. The 3.4mm size was given to us on the canvas page. Here you can see my constraining of the holes, to ensure they are all centered on the base as well as inside the 22mm circle. The circle and the guidelines were all deleted before cutting through the top of the mount's base. These measurements can also be seen in _Appendix B_ .
+
+<img width="1920" height="1200" alt="1" src="https://github.com/user-attachments/assets/eea14ff8-7c5f-42ab-862c-9e5eb02ef6d5" />
+
+Here is my finished motor mount:
+
+<img width="1920" height="1200" alt="1" src="https://github.com/user-attachments/assets/3fb1b854-a4f1-483e-9eba-b3b743a50a0a" />
+
+
+
+
+
+
 ## Reflection 
 As of today, 2.5 hours.
 
+[Google folder with CAD files
+]([url](https://drive.google.com/drive/folders/1-wBt3nmzCxCIUVWS0UIrUuQ9umav4i4K?usp=drive_link))
 _**Appendix A**_
 
 <img width="380" height="194" alt="image" src="https://github.com/user-attachments/assets/98e9a80b-886e-4794-818c-a10f0139201b" />
 
 _**Appendix B**_
 
+<img width="733" height="281" alt="image" src="https://github.com/user-attachments/assets/ed0ab911-aff6-4ff6-a95a-8da90d9f8f7c" />
 
