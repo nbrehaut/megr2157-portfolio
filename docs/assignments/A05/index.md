@@ -12,10 +12,17 @@ Design using a safety factor of 4 and applied load in between 500 lbf < F < 800 
 <img width="588" height="227" alt="image" src="https://github.com/user-attachments/assets/63ed23f4-dd45-41fb-a8dc-3d276f499c75" />
 
 
-## Dimensions from Stress Analysis
+## Feature A
+**Stress:**
 
+**Stiffness:**
+## Feature B
 
-## Dimensions from Stiffness Analysis
+## Feature C
+
+## Feature D
+
+## Feature E
 
 ## Multiview Sketches
 
@@ -24,4 +31,7 @@ Design using a safety factor of 4 and applied load in between 500 lbf < F < 800 
 **Stiffnes Analysis Sketch:**
 
 ## Reflection
+
+## Appendix:
+
 
