@@ -16,13 +16,45 @@ Design using a safety factor of 4 and applied load in between 500 lbf < F < 800 
 **Stress:**
 
 **Stiffness:**
+
+**Calculations:**
+
+<img width="1500" height="800" alt="1" src="https://github.com/user-attachments/assets/38b514ff-1d0e-4ad8-a24e-57a97fbf98d2" />
+
 ## Feature B
+**Stress:**
+
+**Stiffness:**
+
+**Calculations:**
+
+<img width="1500" height="800" alt="1" src="https://github.com/user-attachments/assets/502cd122-81bd-4748-82cb-e2cc43027fb2" />
 
 ## Feature C
+**Stress:**
 
+**Stiffness:**
+
+**Calculations:**
+
+<img width="1500" height="800" alt="1" src="https://github.com/user-attachments/assets/4e1fc3ac-950e-4810-b6c5-e977d84ab141" />
 ## Feature D
+**Stress:**
+
+**Stiffness:**
+
+**Calculations:**
+
+<img width="1500" height="800" alt="1" src="https://github.com/user-attachments/assets/be0acc47-1257-460c-a556-5cf09972ed44" />
 
 ## Feature E
+**Stress:**
+
+**Stiffness:**
+
+**Calculations:**
+
+<img width="1500" height="800" alt="1" src="https://github.com/user-attachments/assets/9b6a3301-f798-4426-bc62-08679c5a8dbd" />
 
 ## Multiview Sketches
 
