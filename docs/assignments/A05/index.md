@@ -80,8 +80,12 @@ My stiffness equation was once again the equation for a center loaded beam. Afte
 ## Multiview Sketches
 
 **Stress Analysis Sketch:**
+<img width="1080" height="1394" alt="1" src="https://github.com/user-attachments/assets/9770c3c9-6987-43e8-8f23-2174af7ff885" />
+
 
 **Stiffnes Analysis Sketch:**
+<img width="1080" height="1360" alt="1" src="https://github.com/user-attachments/assets/8c4eaf77-454d-4eb6-802a-6018c53e774d" />
+
 
 ## Reflection
 -  Governing failure mode: For at least one feature, state whether stress or stiffness governed the final dimension, and by how much (e.g., "stress required 0.25", stiffness required 0.31"). If they were close, say so — a near-tie is itself a lesson.
