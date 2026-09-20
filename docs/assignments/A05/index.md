@@ -80,11 +80,13 @@ My stiffness equation was once again the equation for a center loaded beam. Afte
 ## Multiview Sketches
 
 **Stress Analysis Sketch:**
-<img width="1080" height="1394" alt="1" src="https://github.com/user-attachments/assets/9770c3c9-6987-43e8-8f23-2174af7ff885" />
+
+<img width="800" height="1100" alt="1" src="https://github.com/user-attachments/assets/9770c3c9-6987-43e8-8f23-2174af7ff885" />
 
 
 **Stiffnes Analysis Sketch:**
-<img width="1080" height="1360" alt="1" src="https://github.com/user-attachments/assets/8c4eaf77-454d-4eb6-802a-6018c53e774d" />
+
+<img width="800" height="1100" alt="1" src="https://github.com/user-attachments/assets/8c4eaf77-454d-4eb6-802a-6018c53e774d" />
 
 
 ## Reflection
@@ -99,6 +101,9 @@ My stiffness equation was once again the equation for a center loaded beam. Afte
 -  Assumption sensitivity: Name one assumption you made (material choice, shear negligibility, load distribution, etc.) and describe what would change in your final dimensions if that assumption were wrong or different
 
       _One assumption that I made that shows up in feature D is that the width of the base of the bracket was equal to it's length (the cross sectional area is a square). My final dimensions would definitely change as this choice set the Area of the cross section to be equal to the 2.4964 inches * the features base._
+
+
+This assignment took me 5 hours to complete
 
 ## Appendix:
 
