@@ -32,16 +32,31 @@ After this, I created feature A as an extruded cylinder.
 
 <img width="1920" height="1200" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/3e7329be-5858-49a5-9329-3cd6cca23c32" />
 
-I extruded this cylinder up to the surface of the front of the bracket mount, as well as extruded backwards 0.05 inches to account for the thickness of feature B.
+I extruded this cylinder up to the surface of the front of the bracket mount.
 
 <img width="1920" height="1200" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/356c2bbf-8bca-4c43-ad21-29717fa584be" />
 
 <img width="1920" height="1200" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/ffda90c5-c0aa-41be-8df1-e1447f798a9e" />
 
+I then realized that feature A stuck out the thickness of feature B from the base of feature B.
+
+<img width="1920" height="1200" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/f5020bcf-724c-4b79-960e-b37bf1517e26" />
+
+To account for this, I extruded backwards 0.05 inches.
+
 <img width="1920" height="1200" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/8a89e8b2-9a12-44ce-aa74-d0bef50956ef" />
+
+This left me with my finished model
+
+<img width="1920" height="1200" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/6fd3b14c-3123-4635-afad-899f11c40927" />
 
 
 ## Drawing
+
+ Most of the design process for the drawing portion of this assignment was reactively straightforward. I used the ANSI template A for my design and installed the given tolerance from the canvas assignment page. I used the tolerance for the hole's base due to the bracket that I calculated from A5. I also ensured that the values that had 3 decimal places were changed to 3 decimal places rather than the program's default 2 decimal places. Here is an image of the final drawing:
+
+<img width="473" height="365" alt="Screenshot 2026-09-27 190405" src="https://github.com/user-attachments/assets/2ba13633-04cd-41aa-9dab-de06f5c5a2d2" />
+
 
 
 ## Reflections
