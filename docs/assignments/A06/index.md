@@ -34,8 +34,6 @@ After this, I created feature A as an extruded cylinder.
 
 I extruded this cylinder up to the surface of the front of the bracket mount.
 
-<img width="1920" height="1200" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/356c2bbf-8bca-4c43-ad21-29717fa584be" />
-
 <img width="1920" height="1200" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/ffda90c5-c0aa-41be-8df1-e1447f798a9e" />
 
 I then realized that feature A stuck out the thickness of feature B from the base of feature B.
