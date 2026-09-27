@@ -62,3 +62,7 @@ This left me with my finished model
 - One main engineering lesson that I learned is the importance of tolerances. In this project, miscalculating the tolerances could lead to the brackets' users to get injured.
 - One tolerance that I hand calculated was the tolerance for the width of feature C. This dimension controlled the width of the cut that holds the the rigid t beam in place. I calculated this tolerance by adding together one of dimension A's tolerance and two of dimension B's tolerances.
 - One place where I applied a tighter tolerance was feature C's thickness. This was because in the hand calculations, the result was to 3 decimal places. This was a result of adding together values of 3 decimal places. One dimension that I applied a looser tolerance was the diameter of feature A. This was chosen to do because the tolerance of the part was not that integral to the design, so I decided to save a little bit of cost on somewhere that may not be hindered that much.
+
+This project took me roughly 2 hours to complete from start to finish.
+
+[Google Folder with CAD Files](https://drive.google.com/drive/folders/1XZeDiHqGNRlu-JgQssnBpCSPFCLwoiCg?usp=sharing)
