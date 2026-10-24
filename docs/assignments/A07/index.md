@@ -44,8 +44,7 @@ Here is my stress data:
 </p>
 
 
-<h2>Outer Loop 2</h2>
-
+## Outer Loop 2 
 
 For my 2nd loop I decided to make feature B thicker, as it clearly appeared to be the main cause of stress on the bracket. I thickened it 50 thousandths of an inch to 350 thousands.
 
