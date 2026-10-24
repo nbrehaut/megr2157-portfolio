@@ -87,10 +87,18 @@ These numbers also did not converge, but the 3rd test marked the end of this out
 To begin the geometrical change for outer loop 3, I created a 0.25 inch radius fillet for the connections of feature B and feature A. 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/adace367-0ac5-4d22-9f3d-e6eed720d5f3" />
 
+I also extruded another feature B to the other side, to hopefully relieve some of the displacement done to feature A.
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/09fbb529-c059-413f-b51c-ff84aa40827b" />
+
+I made sure to filet this part's edges as well, leaving a completely symmetrical part. 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/24bd1f40-f930-4ae5-bc8c-6503c824eaae" />
+
 
 
 ## Decide
 
 
 ## Communicate
-
+A few downsides to my final design are ease of instalation for the strap itself, weight, and possibgle cost.
