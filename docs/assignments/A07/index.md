@@ -65,7 +65,28 @@ The max displacement was still on feature A, which I also plan to fix in the nex
 
 I also for the first time this test was returned with a safety factor above 1, meaning that my part would (in theory) not fail due to the 500lbf force. My displacement was also under 1 mm now, I saw a lot of great improvements from thickening the feature B.
 
+For my next iteration I used a more coarse mesh that returned 2890 elements:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/340e38fa-a04a-4c02-b358-71bd55b3430b" />
+Test Results for stress:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/db3e47f3-ebbe-4bde-849d-583940c75819" />
+
+After running the test, I was given only one convergence under 7% again (roughly 23%, 3%, 17%). This led to me running another test with a mesh finer than the original. This mesh had 52278 elements. 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/770c069f-f2e9-489b-8d90-e196afa92ed8" />
+
+In a very interesting twist, this data proved to be under 1 for safety factor, meaning it would now likely fail. This stress FEA showed that there was a very high concentration of stress for the part at the connection of feature B and feature C (base of the top of the bracket). 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d28c3c8d-dce5-4a00-8be0-8d8aaf98a67f" />
+
+These numbers also did not converge, but the 3rd test marked the end of this outer loop, as well as gave me information on what I wanted to fix for my 3rd and last outer loop.
+
+
 ## Outer Loop 3 
+
+To begin the geometrical change for outer loop 3, I created a 0.25 inch radius fillet for the connections of feature B and feature A. 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/adace367-0ac5-4d22-9f3d-e6eed720d5f3" />
+
 
 
 ## Decide
