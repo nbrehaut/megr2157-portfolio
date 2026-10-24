@@ -94,7 +94,7 @@ These numbers also did not converge, but the 3rd test marked the end of this out
 
  
 
-## Outer Loop 3
+<h2>Outer Loop 3</h2>
 
 
 To begin the geometrical change for outer loop 3, I created a 0.25 inch radius fillet for the connections of feature B and feature A. 
@@ -139,7 +139,7 @@ This time, all of my data did converge within 7% (3.18%, 3.87%, 4%) which was a 
 <p/>
 
 
-## Conclusion
+<h2>Conclusion</h2>
 
 
 **A few downsides to my final design are:**
