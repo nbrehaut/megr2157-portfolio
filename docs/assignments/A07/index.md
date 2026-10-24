@@ -93,8 +93,7 @@ These numbers also did not converge, but the 3rd test marked the end of this out
 
  
 
-<h2>Outer Loop 3</h2>
-
+## Outer Loop 3
 
 To begin the geometrical change for outer loop 3, I created a 0.25 inch radius fillet for the connections of feature B and feature A. 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/adace367-0ac5-4d22-9f3d-e6eed720d5f3" />
