@@ -41,7 +41,7 @@ Here is my stress data:
 
 <p align="center">
 <img width="467" height="142" alt="image" src="https://github.com/user-attachments/assets/a6c25423-fa5c-4f4f-8989-cff35e9866bd" />
-<p/>
+</p>
 
 
 <h2>Outer Loop 2</h2>
@@ -90,7 +90,7 @@ These numbers also did not converge, but the 3rd test marked the end of this out
 
 <p align="center">
 <img width="467" height="143" alt="image" src="https://github.com/user-attachments/assets/a70c8dad-e07d-4f68-a2ac-0d3618153e26" />
-<p/>
+</p>
 
  
 
@@ -136,7 +136,7 @@ This time, all of my data did converge within 7% (3.18%, 3.87%, 4%) which was a 
 
 <p align="center">
 <img width="467" height="140" alt="image" src="https://github.com/user-attachments/assets/ef51e08f-0945-468c-9888-f14d95c885ee" />
-<p/>
+</p>
 
 
 <h2>Conclusion</h2>
