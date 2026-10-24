@@ -139,11 +139,9 @@ This time, all of my data did converge within 7% (3.18%, 3.87%, 4%) which was a 
 </p>
 
 
-<h2>Conclusion</h2>
+## Conclusion
 
-
-A few downsides to my final design are:
-
+**A few downsides to my final design are:**
 
 - Ease of instalation for the strap itself
 - Overall weight
