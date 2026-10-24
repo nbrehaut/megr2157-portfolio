@@ -39,7 +39,9 @@ Here is my stress data:
 
 **Here is the chart of all my found values for the 1st geometry loop:**
 
-
+<p align="center">
+<img width="467" height="142" alt="image" src="https://github.com/user-attachments/assets/a6c25423-fa5c-4f4f-8989-cff35e9866bd" />
+<p/>
 
 
 ## Outer Loop 2 
@@ -84,6 +86,9 @@ These numbers also did not converge, but the 3rd test marked the end of this out
 
 **Here is the chart of all my found values for the 2nd geometry loop:**
 
+<p align="center">
+<img width="467" height="143" alt="image" src="https://github.com/user-attachments/assets/a70c8dad-e07d-4f68-a2ac-0d3618153e26" />
+<p/>
 
 ## Outer Loop 3 
 
@@ -123,6 +128,11 @@ Here is the displacement data for this test:
 This time, all of my data did converge within 7% (3.18%, 3.87%, 4%) which was a good way to finish off the last test for this assignment. This was definetly the best design that I had created so far in terms of safety factor.
 
 **Here is the chart of all my found values for the 3rd geometry loop:**
+
+<p align="center">
+<img width="467" height="140" alt="image" src="https://github.com/user-attachments/assets/ef51e08f-0945-468c-9888-f14d95c885ee" />
+<p/>
+
 
 ## Conclusion
 **A few downsides to my final design are:**
