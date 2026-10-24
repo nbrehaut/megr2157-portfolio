@@ -138,7 +138,7 @@ This time, all of my data did converge within 7% (3.18%, 3.87%, 4%) which was a 
 **A few downsides to my final design are:**
 - Ease of instalation for the strap itself
 - Overall weight
-- Possibgle cost.
+- Possible cost
 
 I learned that the finer the grain of the mesh, the better understanding of what areas are more likely to fail you get. The part of this assignment that really showed me this was outer loop 2 (my first geometrical design change). Seeing the high stress area change from a broader section at the top of feature B move to the exact corners between B and A really showed how a finer mesh can be very beneficial, despite taking longer to load and being harder on your computer.
 
