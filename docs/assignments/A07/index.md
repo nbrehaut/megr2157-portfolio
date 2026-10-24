@@ -44,7 +44,7 @@ Here is my stress data:
 <p/>
 
 
-## Outer Loop 2
+## Outer Loop 2 ##
 
 
 For my 2nd loop I decided to make feature B thicker, as it clearly appeared to be the main cause of stress on the bracket. I thickened it 50 thousandths of an inch to 350 thousands.
@@ -93,7 +93,7 @@ These numbers also did not converge, but the 3rd test marked the end of this out
 <p/>
 
  
-## Outer Loop 3
+## Outer Loop 3 ##
 
 
 To begin the geometrical change for outer loop 3, I created a 0.25 inch radius fillet for the connections of feature B and feature A. 
