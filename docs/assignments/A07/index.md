@@ -120,16 +120,18 @@ This mesh was more fine than the original and had 46109 elements.
 Here is the displacement data for this test: 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ab0452ee-c38d-4ed2-adfd-c061f0336e46" />
 
-This time, all of my data did converge within 7% (3.18%, 3.87%, 4%) which was a good way to finish off the last test for this assignment. 
+This time, all of my data did converge within 7% (3.18%, 3.87%, 4%) which was a good way to finish off the last test for this assignment. This was definetly the best design that I had created so far in terms of safety factor.
 
 **Here is the chart of all my found values for the 3rd geometry loop:**
 
+## Conclusion
+**A few downsides to my final design are:**
+- Ease of instalation for the strap itself
+- Overall weight
+- Possibgle cost.
 
+I learned that the finer the grain of the mesh, the better understanding of what areas are more likely to fail you get. The part of this assignment that really showed me this was outer loop 2 (my first geometrical design change). Seeing the high stress area change from a broader section at the top of feature B move to the exact corners between B and A really showed how a finer mesh can be very beneficial, despite taking longer to load and being harder on your computer.
 
+This assignment took me around 3.5 hours to complete. 
 
-
-## Decide
-
-
-## Communicate
-A few downsides to my final design are ease of instalation for the strap itself, weight, and possibgle cost.
+[CAD FILE FOLDER](https://drive.google.com/drive/folders/1KUlpj332ZevMF5I3M4IWpbbkvH-BpuSP?usp=drive_link)
