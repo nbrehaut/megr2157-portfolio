@@ -94,6 +94,21 @@ I also extruded another feature B to the other side, to hopefully relieve some o
 I made sure to filet this part's edges as well, leaving a completely symmetrical part. 
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/24bd1f40-f930-4ae5-bc8c-6503c824eaae" />
+This design was 2.18 lbs. The default mesh coarseness had 10242 elements
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b1a7a54b-4b49-4bd9-a0a4-1df83f2a0219" />
+
+After running the test, it is clear to see that the highest point of stress was located on the corners of the connection between part A and B (including the second part B) that I forgot to filet.
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3857616b-41e7-4167-bd6f-b0630d6b9f23" />
+
+The displacement may seem very high due to the part being very red there, however it went down from high 200 thousandths of an inch to mid 20 thousandths of an inch. 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b8035948-49e6-42aa-b813-1c30aa0fe71a" />
+
+For my next test, I once again used a more coarse mesh, resulting in 3398 members.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/97181266-9587-471e-87e6-a10976949eef" />
+
+The stress went slightly up, and the displacement + safety factor went slightly down.
 
 
 
