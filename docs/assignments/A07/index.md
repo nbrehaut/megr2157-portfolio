@@ -37,7 +37,8 @@ The only part of my data that converged this time (>7%) was the max displacement
 Here is my stress data: 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f5cc7109-ab0e-4ff4-8c37-e407c477a10a" />
 
-My data table for loop 1 can be seem here:
+**Here is the chart of all my found values for the 1st geometry loop:**
+
 
 
 
@@ -81,6 +82,8 @@ In a very interesting twist, this data proved to be under 1 for safety factor, m
 
 These numbers also did not converge, but the 3rd test marked the end of this outer loop, as well as gave me information on what I wanted to fix for my 3rd and last outer loop.
 
+**Here is the chart of all my found values for the 2nd geometry loop:**
+
 
 ## Outer Loop 3 
 
@@ -108,7 +111,20 @@ The displacement may seem very high due to the part being very red there, howeve
 For my next test, I once again used a more coarse mesh, resulting in 3398 members.
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/97181266-9587-471e-87e6-a10976949eef" />
 
-The stress went slightly up, and the displacement + safety factor went slightly down.
+The stress went slightly up, and the displacement + safety factor went slightly down. Just as seen in my previous 2 test 2's convergence tests, the only number that converged less than 7% was the displacement. This led to a 3rd mesh size.
+
+This mesh was more fine than the original and had 46109 elements.
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b0b41ffd-e196-4d85-8aef-60841cac2b06" />
+
+Here is the displacement data for this test: 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ab0452ee-c38d-4ed2-adfd-c061f0336e46" />
+
+This time, all of my data did converge within 7% (3.18%, 3.87%, 4%) which was a good way to finish off the last test for this assignment. 
+
+**Here is the chart of all my found values for the 3rd geometry loop:**
+
+
 
 
 
