@@ -32,12 +32,38 @@ My feature B was clearly the bottleneck in this test. I then ran a test again wi
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/48b38ae6-8fb5-4193-b5ff-fbb85003e4f4" />
 
+The only part of my data that converged this time (>7%) was the max displacement. I ran a 3rd test for this first loop with a finer mesh (35693 elements).
 
+Here is my stress data: 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f5cc7109-ab0e-4ff4-8c37-e407c477a10a" />
 
+My data table for loop 1 can be seem here:
 
 
 
 ## Outer Loop 2 
+For my 2nd loop I decided to make feature B thicker, as it clearly appeared to be the main cause of stress on the bracket. I thickened it 50 thousandths of an inch to 350 thousands.
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8f3c500c-5c9f-4705-9f68-82a9d51ca0cd" />
+
+
+Next, I ensured that feature A was to the back of the new thickness of feature B by extruding it to the surface.
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/af334df2-6875-459f-9f5d-847c0fc74713" />
+
+I then ran my first FEA again, ensuring to also write down the new mass of the bracket. The default mesh settings called for 10176 elements.
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ae1fd414-1d19-470d-911f-2c9e8643ce2d" />
+
+This experiment proved to be a lot better, as there was less stress and it was concentrated over multiple different areas, and not just one location. Solid works also did not call for a "high deflection" test this time, which was more evidence of an improved design. 
+
+As seen here, the most stress on the part is in the corners connecting feature B to the physical bracket holder. This will be adressed in the next outer loop.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/8de3e00d-86ff-4191-89c1-9ad8b40ec82b" />
+
+The max displacement was still on feature A, which I also plan to fix in the next rendition. 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5081e69b-7db7-4bd0-ae85-dc5ed4091fa2" />
+
+I also for the first time this test was returned with a safety factor above 1, meaning that my part would (in theory) not fail due to the 500lbf force. My displacement was also under 1 mm now, I saw a lot of great improvements from thickening the feature B.
 
 ## Outer Loop 3 
 
