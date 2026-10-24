@@ -22,9 +22,7 @@ Then I ran the study. This process will be repeated many times, so the ongoing d
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/820d4d0f-5b81-48d2-b4ca-6adc51e498cf" />
 
-I then redid my previous steps, fixed the top of the inside of the bracket and ran the study.
-
-I then got another error and saw that I had to place a restraint, as seen here:
+I then redid my previous steps, fixed the top of the inside of the bracket and ran the study, however I then got another error and saw that I had to place a restraint, as seen here:
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1a22de4f-a519-4b62-af51-b6c647cce6c7" />
 
