@@ -134,4 +134,4 @@ I learned that the finer the grain of the mesh, the better understanding of what
 
 This assignment took me around 3.5 hours to complete. 
 
-[CAD FILE FOLDER](https://drive.google.com/drive/folders/1KUlpj332ZevMF5I3M4IWpbbkvH-BpuSP?usp=drive_link)
+[Google Folder with CAD Files](https://drive.google.com/drive/folders/1KUlpj332ZevMF5I3M4IWpbbkvH-BpuSP?usp=drive_link)
