@@ -102,6 +102,9 @@ Following this restart, I knew what the process would look like this time, and i
 
 Next I extruded the thicknesses of the parts based off of this calulation.
 
+<img width="3024" height="4032" alt="unnamed" src="https://github.com/user-attachments/assets/a11ab6d5-40f6-4f22-a1cd-972a710356cb" />
+
+
 These thicknesses were chosen to account for the thickness of the gears as seen on the website's engineering drawings. I then extruded the faceplate to the calculated values.
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/73cdabfe-da27-4c0e-9065-b41508c1dc49" />
