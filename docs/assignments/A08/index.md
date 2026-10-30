@@ -158,7 +158,9 @@ And lastly, with the journal bearings on:
 
 
 ## Lessons Learned
+In this assignment, I learned a lot about both solid works and gears. I learned almost every bit of theory used in this assignment about gears, I know that we touched upon it in ENGR 1201, but a lot of that was lost knowledge. For solid works, I learned that there are a lot of things you cannot do if two sketches are on separate sketch files. I also learned how to constrain in an assembly. A lot of these skills I learned in ENGR 1202 in Creo Parametric, so relearning everything added a large challenge to this assignment. 
 
+This assignment took me roughly 5 hours. 
 
 
 
