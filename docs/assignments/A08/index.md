@@ -125,7 +125,13 @@ I then duplicated the CAD file and changed the hole (same tolerance logic) to th
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5144b2d7-7e53-4223-bbed-57ec88f6fec5" />
 
+I then remembered to cut a hole for the physical gears to go into. 
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bdb35239-36c7-422a-a153-51250a34806c" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a8246ebb-14b1-4dd2-9e1b-f3ee272e2d95" />
+
+And now for the assembly, 
 
 ## Lessons Learned
 
