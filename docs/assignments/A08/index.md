@@ -139,6 +139,22 @@ Now with the shafts inserted:
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7998598c-2a2c-4188-9b44-b338c11b1316" />
 
+With the frontplate on:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c4b11d13-da22-4f09-a910-f6649d49de54" />
+
+And lastly, with the journal bearings on:
+
+**Front:**
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7432fc47-3d93-4a5e-a9c9-6af01270a51c" />
+
+
+**Back:**
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/beafce48-5469-4801-a00f-195942006f6b" />
+
+Google Folder with CAD Files
+
 
 
 
