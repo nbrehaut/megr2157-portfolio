@@ -114,6 +114,13 @@ Next, I had to add a hole for the shaft to it, as well as holes for the bolts to
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/659c7ad0-9971-455e-8700-d2913c3ab749" />
 
+Lastly for the front faceplate of the gearbox holder, I cut the hole for the output shaft, I used a size of 1 thou of an inch bigger and allowed for + 2 thou - 0 for the tolerance.
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f35ce1cd-40d9-458c-86b6-6e428ae565de" />
+
+I then duplicated the CAD file and changed the hole (same tolerance logic) to the enclosure for the pinion gear. 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5144b2d7-7e53-4223-bbed-57ec88f6fec5" />
 
 
 
