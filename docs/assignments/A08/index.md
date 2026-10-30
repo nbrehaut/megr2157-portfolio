@@ -21,10 +21,16 @@
 **Input Shaft**
 My first step in designing the input shaft was to calculate the rpm and the torque that was being applied to it due to the given output shaft values. This was done using the given gear ratio of 24:9. I then drew out the FBD of the input shaft, and calculated for the max allowed shear stress. The c value was calculated by using the radius of the shaft, because it is the distance from the outside edge of the shaft to the center. The value I obtained for max shear stress (1222.31 psi) is less than the 4000 that I found in the machinery handbook. Here is all of my math for the input shaft:
 
+<img width="3320" height="1038" alt="unnamed" src="https://github.com/user-attachments/assets/c00e3510-d156-404a-9ad6-9173e82d69ca" />
+
+
 
 
 **Output Shaft**
 For the output shaft, I simply drew the FBD, wrote down the values that were given, and plugged in the values to the previously derived equation that I had made from the input shaft. My max shear stress was roughly 407 psi, which is way below the 8500 psi written in the handbook. This meant that both of the given diameters proved to be sufficient. Here are my calculations and FBD for the output shaft:
+
+<img width="3292" height="675" alt="unnamed" src="https://github.com/user-attachments/assets/a3287172-164f-4cce-bd18-dd7991e44a76" />
+
 
 
 
@@ -41,6 +47,7 @@ For the size and length, I did some research and found that a standard length fo
 I derived for the equation for force from the equation of torque. I then found the velocity and Pressure for each bearing. Multiplying these together gave me the pressure-velocity rating needed for each bearing. Here are my calculations:
 
 
+<img width="3816" height="2138" alt="unnamed" src="https://github.com/user-attachments/assets/07255d1d-9c93-4a29-8956-0ef16d1dd009" />
 
 
 
@@ -51,13 +58,18 @@ Using my found pressure-velocity ratings, I found a material off of McMaster-Car
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2a68da91-039f-4816-bc54-f0ced89a1c29" />
 
-
-
-**Selection**
+These bearings allow for a 0.002" tolerance, which would likely fit perfectly with my need for roughly 0.005" for the running sliding fit (no toleracnes given on the shafts).
 
 
 
 ## Gearbox Housing
+I designed the gearbox housing to fully encapsulate the gears and the shafts, without having too much space. This will require an assembly in CAD with the front and back plates of the housing, the gears, and the shafts all put together. 
+
+Here is a hand-sketch of my initial idea for the housing.
+
+
+<img width="3440" height="1862" alt="unnamed" src="https://github.com/user-attachments/assets/c60ecd33-1d76-401d-9411-84873237b269" />
+
 
 
 ## Gearbox CAD Model
