@@ -153,8 +153,7 @@ And lastly, with the journal bearings on:
 **Back:**
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/beafce48-5469-4801-a00f-195942006f6b" />
 
-Google Folder with CAD Files
-
+[Google Folder with CAD Files]([https://drive.google.com/drive/folders/1p8Si4-0PxMj2ys7XMJfJw6we-HD9-dGf?usp=drive_link])
 
 
 
