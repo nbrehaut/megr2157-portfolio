@@ -73,6 +73,15 @@ Here is a hand-sketch of my initial idea for the housing.
 
 
 ## Gearbox CAD Model
+Starting off to create my CAD assembly, I created the input and output shaft the same way. I sketched a circle and extruded them both 1". I changed the accuracy to be 3 decimal places, since the inpiut shaft is 0.125" not 0.13". The output shaft can be seen here:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/add6f826-bc48-454b-80f8-7d4ae812c1cc" />
+
+I then downloaded the CAD files for the two journal bearings, as well as the gears. Next was to design the actual front and back plates for the gearbox holder. I looked at the given pitch diameter values for both gears and sketched a circle of them. I coincidented the outside radiuses as seen here:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f0ef3870-944c-433d-b067-71925d84d8c2" />
+
+I then sketched a circle from the pitch diameters of the two gears to be outwards 100 thousands of an inch for both gears to accommodate room for the outside diameters of the gears, but not have a lot of extra material.
 
 
 ## Lessons Learned
