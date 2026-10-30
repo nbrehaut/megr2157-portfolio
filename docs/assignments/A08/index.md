@@ -110,7 +110,12 @@ I then added a fillet to the side of the extrusion to add a bit of a better stre
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3aedf9da-9cb7-4948-b72e-d674df22283a" />
 
-Next, I had to add a hole for the shaft to it, as well as holes for the bolts to go through. 
+Next, I had to add a hole for the shaft to it, as well as holes for the bolts to go through. I used 60 thousandths of an inch for my major diameter since that is the smallest commercially available bolt according to my research. 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/659c7ad0-9971-455e-8700-d2913c3ab749" />
+
+
+
 
 ## Lessons Learned
 
