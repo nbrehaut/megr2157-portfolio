@@ -154,9 +154,7 @@ And lastly, with the journal bearings on:
 **Back:**
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/beafce48-5469-4801-a00f-195942006f6b" />
 
-[Google Folder with CAD Files]([https://drive.google.com/drive/folders/1p8Si4-0PxMj2ys7XMJfJw6we-HD9-dGf?usp=drive_link])
-
-
+[Google Folder with CAD Files](https://drive.google.com/drive/folders/1p8Si4-0PxMj2ys7XMJfJw6we-HD9-dGf?usp=drive_link)
 
 ## Lessons Learned
 In this assignment, I learned a lot about both solid works and gears. I learned almost every bit of theory used in this assignment about gears, I know that we touched upon it in ENGR 1201, but a lot of that was lost knowledge. For solid works, I learned that there are a lot of things you cannot do if two sketches are on separate sketch files. I also learned how to constrain in an assembly. A lot of these skills I learned in ENGR 1202 in Creo Parametric, so relearning everything added a large challenge to this assignment. 
