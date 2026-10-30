@@ -10,9 +10,10 @@
 **Specifications**
 - Gear ratio 24:9
 - Output gear torque = 1.25 in-lbf @ 1100rpm 
-- Input shaft to be .125 in , length of 1 inch (pinion)
-- Output shaft to be .25 in , length of 1 inch (gear)
-- Shafts are press fit through the hubs of the gears 
+- Input shaft to be .125 in , length of 1 inch 
+- Output shaft to be .25 in , length of 1 inch 
+- Shafts are press fit through the hubs of the gears
+- Input is coming from the pinion gear
 
 ## Design the Shafts
 
@@ -23,6 +24,8 @@ My first step in designing the input shaft was to calculate the rpm and the torq
 
 
 **Output Shaft**
+For the output shaft, I simply drew the FBD, wrote down the values that were given, and plugged in the values to the previously derived equation that I had made from the input shaft. My max shear stress was roughly 407 psi, which is way below the 8500 psi written in the handbook. This meant that both of the given diameters proved to be sufficient. Here are my calculations and FBD for the output shaft:
+
 
 
 ## Journal Bearings
