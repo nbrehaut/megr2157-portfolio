@@ -131,7 +131,16 @@ I then remembered to cut a hole for the physical gears to go into.
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a8246ebb-14b1-4dd2-9e1b-f3ee272e2d95" />
 
-And now for the assembly, 
+And now for the assembly, I put the gears into the backplate: 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/05d78112-5aab-41a8-8cdc-8eaf45fba9be" />
+
+Now with the shafts inserted:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7998598c-2a2c-4188-9b44-b338c11b1316" />
+
+
+
 
 ## Lessons Learned
 
