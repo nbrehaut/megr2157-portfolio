@@ -33,7 +33,6 @@ For the output shaft, I simply drew the FBD, wrote down the values that were giv
 
 
 
-
 ## Journal Bearings
 To start off designing the journal bearings, I had to do some research on how they worked. I learned that the journal bearing serves an important purpose of allowing for the shaft to rotate (in this case using a running sliding fit) whilst staying stationary with respect to the housing of the gearbox. I also learned that lubricant (typically oil) is applied  to the contact surface between the bearing and the shaft to mitigate friction.  
 
@@ -97,6 +96,21 @@ Following this, I deleted the pitch diameter circles and removed the excess mate
 
 I then copy and pasted the original pitch diameter circles as a new sketch and coincidence into the center. This would be used later. My laptop then crashed solidoworks and I was forced to completlety restart.
 
+Following this restart, I knew what the process would look like this time, and it only took a few minutes to get back to my stopping point. I added 400 thousandths of clearance for the gears. 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5210b6dd-3a4b-4725-b4cf-287df1bb63fe" />
+
+Next I extruded the thicknesses of the parts based off of this calulation.
+
+These thicknesses were chosen to account for the thickness of the gears as seen on the website's engineering drawings. I then extruded the faceplate to the calculated values.
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/73cdabfe-da27-4c0e-9065-b41508c1dc49" />
+
+I then added a fillet to the side of the extrusion to add a bit of a better stress tolerance, making sure that I stayed under the clearance I gave myself.
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3aedf9da-9cb7-4948-b72e-d674df22283a" />
+
+Next, I had to add a hole for the shaft to it, as well as holes for the bolts to go through. 
 
 ## Lessons Learned
 
