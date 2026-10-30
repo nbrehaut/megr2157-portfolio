@@ -141,7 +141,8 @@ Now with the shafts inserted:
 
 With the frontplate on:
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c4b11d13-da22-4f09-a910-f6649d49de54" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c066debb-80a2-49b8-84e8-4998a364d95f" />
+
 
 And lastly, with the journal bearings on:
 
