@@ -81,7 +81,21 @@ I then downloaded the CAD files for the two journal bearings, as well as the gea
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f0ef3870-944c-433d-b067-71925d84d8c2" />
 
-I then sketched a circle from the pitch diameters of the two gears to be outwards 100 thousands of an inch for both gears to accommodate room for the outside diameters of the gears, but not have a lot of extra material.
+I then sketched a circle from the pitch diameters of the two gears to be outwards 100 thousands of an inch for both gears to accommodate room for the outside diameters of the gears, but not have a lot of extra material. After spending a solid 30 minutes, I learned that I could not remove the part of the sketch between the two circles since they were two seperate sketches. I then redid it with using the tangent connection between the two circles (on the same sketch) 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5f126d4c-9367-4c30-bb7d-2269a40f8f1e" />
+
+
+I then repeated the 100 thousandths extra 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/31bd218e-ef3f-40f3-b8b8-5042eef560a6" />
+
+Following this, I deleted the pitch diameter circles and removed the excess material using the smart trim tool. 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/35e47823-d1ca-4f9b-96d0-8168fa88c34e" />
+
+
+I then copy and pasted the original pitch diameter circles as a new sketch and coincidence into the center. This would be used later. My laptop then crashed solidoworks and I was forced to completlety restart.
 
 
 ## Lessons Learned
