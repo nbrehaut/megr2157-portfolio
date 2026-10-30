@@ -29,12 +29,28 @@ For the output shaft, I simply drew the FBD, wrote down the values that were giv
 
 
 ## Journal Bearings
-To start off desinging the journal bearings, I had to do some research on how they worked.
+To start off designing the journal bearings, I had to do some research on how they worked. I learned that the journal bearing serves an important purpose of allowing for the shaft to rotate (in this case using a running sliding fit) whilst staying stationary with respect to the housing of the gearbox. I also learned that lubricant (typically oil) is applied  to the contact surface between the bearing and the shaft to mitigate friction.  
 
 **Size and Length**
+For the size and length, I did some research and found that a standard length for both a journal bearing with a 0.25 inch and a 0.125 inch inner diameter is 0.25 inch. I went on the supplied websites for the gears and found that the pitch is 48 and the pressure angle is 20 degrees for both. It also gives the gear pitch diameter for both, which we need for our force calculation. 
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/07f45d36-cb94-440a-b311-1cd6b0f8d4d9" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e1820640-ce8f-4980-82ee-f47f82377f2a" />
+
+I derived for the equation for force from the equation of torque. I then found the velocity and Pressure for each bearing. Multiplying these together gave me the pressure-velocity rating needed for each bearing. Here are my calculations:
+
+
+
 
 
 **Thickness**
+Using my found pressure-velocity ratings, I found a material off of McMaster-Carr that would be at a PV max of 10 ksi. This gave me the "Moisture-Resistant Dry-Running Rulon LR Sleeve Bearing". I selected two that were 1/4 inch long, with one being for a 1/4' inner diameter, and one being for 1/8" inner diameter.
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/228a52c0-cf5d-43a9-a2d5-7d898dff1063" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2a68da91-039f-4816-bc54-f0ced89a1c29" />
+
 
 
 **Selection**
