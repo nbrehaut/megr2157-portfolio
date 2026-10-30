@@ -29,7 +29,7 @@ For the output shaft, I simply drew the FBD, wrote down the values that were giv
 
 
 ## Journal Bearings
-
+To start off desinging the journal bearings, I had to do some research on how they worked.
 
 **Size and Length**
 
