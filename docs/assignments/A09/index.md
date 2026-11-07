@@ -17,6 +17,8 @@
   
 - Polyurethane rubber (3.25 MPa @ 20% Strain)
 
+- Center distance of 4-6 inches 
+
 ## Selecting Suitable Belt
 
 
