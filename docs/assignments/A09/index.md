@@ -20,9 +20,16 @@
 - Center distance of 4-6 inches 
 
 ## Selecting Suitable Belt
+To select the most suitable belt, i had to make some calculations to find the diameter of the belt as well as the outer circumference of the belt. To find these values, I used the formulas found in the canvas module. I learned that one part of the belt is under way less tension than the other. I also learned that the max stress on the belt is calculated using the max force (higher force on the belt) rather than the initial torque applied. Here are all of my calculations:
+
 
 
 ## Minimum Shaft Diameter
+To calculate the minimum shaft diameter, I had to do some more calculations. I need the yield strength of 1060 hardened steel, which I found to be 70000psi:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f90acfed-eab3-42d8-ad98-4ef0b12b2687" />
+
+
+
 
 
 ## Journal Bearing Design
