@@ -15,7 +15,7 @@
   
 - Minimum safety factor of 3
   
-- Polyurethane rubber (3.25 MPa @ 20% Strain)
+- Polyurethane rubber 3.25 MPa (471 psi)
 
 - Center distance of 4-6 inches 
 
