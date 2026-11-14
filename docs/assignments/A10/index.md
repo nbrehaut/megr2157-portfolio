@@ -42,9 +42,9 @@ For the handsketch, I only had one small decision to make. I made the holes cut 
 
 ## Tabulating Cost - Nolan Brehaut
 
-<img width="465" height="149" alt="image" src="https://github.com/user-attachments/assets/f097cf5b-ed6b-48d6-b396-a570db9ad5d1" />
+<img width="1500" height="700" alt="image" src="https://github.com/user-attachments/assets/f097cf5b-ed6b-48d6-b396-a570db9ad5d1" />
 
-Links :
+**Links :**
 
 [Item #1](https://www.mcmaster.com/98940A305/)
 
