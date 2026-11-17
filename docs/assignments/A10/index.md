@@ -6,11 +6,23 @@ Design and build a mechanically driven tensile tester capable of applying up to 
 
 ## Leadscrew Design - Bryson Bare
 
+I began by assuming steel with a yield strength of 310 MPa for the lead screws. This gave me a starting point for estimating the minimum diameter before selecting an actual screw. Assuming the two screws share the 2 kN load equally, each screw supports 1,000 N. I used axial stress and a safety factor of 4 to calculate a minimum diameter of approximately 4.05 mm. This represents the minimum diameter needed for axial strength under my assumed material properties and helped guide my selection of a commercially available lead screw.
+
+<img width="504" height="505" alt="image" src="https://github.com/user-attachments/assets/d9c5213c-d492-41a8-83aa-91f9064ae8d5" />
+
+After estimating the minimum diameter, I selected a 1/2"-10 lead screw and used its dimensions to calculate the required rotational speed and torque. With 10 threads per inch and a single-start thread, the screw advances 2.54 mm per revolution. Dividing the required crosshead speeds of 1–50 mm/min by this lead gave me a rotational speed range of approximately 0.39–19.68 rpm. Using the 1,000 N load per screw, an assumed friction coefficient of 0.2, and the dimensions shown in my calculations, I obtained an estimated torque of 1,695.831 N·mm per screw. These calculations connected the selected screw’s geometry to the motion and driving torque required for the tensile tester.
+
+<img width="493" height="635" alt="image" src="https://github.com/user-attachments/assets/985b9e24-e9fd-48c6-a9ed-1509aeb12fcc" />
+
 
 ## Nut and Flange - Bryson Bare
 
+Next, I researched McMaster-Carr’s recommended nuts and flanges for the lead screw I selected. I chose a 1/2"-10 flanged nut made from 932 bearing bronze to match the screw’s thread size. I calculated the number of engaged threads (N_t) by dividing the thread engagement length of 44.45 mm by the pitch of 2.54 mm, resulting in 17.5 engaged threads. I then used this value to calculate the thread bearing and bending stresses under the 1,000 N load per screw. Using a bronze yield strength of 124 MPa and a safety factor of 4, I calculated an allowable stress of 31 MPa. My calculated bearing stress of approximately 1.253 MPa and thread bending stress of approximately 4.229 MPa were below this value. Based on the dimensions and assumptions used in this analysis, the selected nut met the calculated thread-strength requirement.
 
+<img width="506" height="652" alt="image" src="https://github.com/user-attachments/assets/aec8363f-69e3-4b17-90df-bd2e0191d209" />
 
+Total time Bryson - 2.5 hours
+ 
 ## Crosshead Design - Nolan Brehaut
 **Beam FBD**
 
@@ -54,7 +66,7 @@ For the handsketch, I only had one small decision to make. I made the holes cut 
 
 [Item #4](https://www.mcmaster.com/47065T882-47065T752/)
 
-
+Total time Nolan - 2.5 hours
 
 ## Parametric Modeling - Brandon Hudson 
 
