@@ -73,4 +73,4 @@ Total time Nolan - 2.5 hours
 
 ## Lessons Learned 
 
-
+Personally, I did the math for the crosshead. A lot of this was a repeat from previous assignments or from other classes. One thing I did learn however, was how to derive a deflection formula, instead of just searching it up online. One other thing that I learned when completing my part of this assignment was how extensive mcmaster-carr is. 
