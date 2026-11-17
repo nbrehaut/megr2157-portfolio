@@ -70,6 +70,59 @@ Total time Nolan - 2.5 hours
 
 ## Parametric Modeling - Brandon Hudson 
 
+I began by using the calculations that Nolan came up with to build my equation sheet. In the instructions we were given some unknowns, but the rest Nolan had to solve and I had to use them for the CAD model. By using his calculations, it made it very simple to make my equations on SolidWorks. 
+
+
+<img width="467" height="140" alt="image" src="https://github.com/user-attachments/assets/83cf0bda-e8ec-40ab-8f73-8b40640ba948" />
+
+
+After completing the equations and knowing the values I was able to begin my sketch. Below is an image of how I began modeling the cross body. 
+
+
+<img width="462" height="277" alt="image" src="https://github.com/user-attachments/assets/03b6a66f-855a-42c6-98d7-048a84516568" />
+
+
+After sketching the part, I extruded it to the correct measurements given to me by Nolan. 
+
+
+<img width="467" height="263" alt="image" src="https://github.com/user-attachments/assets/0e048609-42b5-4d02-ba5c-ad489bec35a5" />
+
+
+
+Once I finished the cross head I put the frame together and began to put the assembly together. 
+
+
+
+
+
+
+
+<img width="370" height="335" alt="image" src="https://github.com/user-attachments/assets/73651559-4eae-4ea4-b4af-7c5814200ac9" />
+
+
+
+
+
+
+
+
+
+Below is the assembly completed. Everything worked very well and was completed as instructed. 
+
+
+
+
+<img width="265" height="404" alt="image" src="https://github.com/user-attachments/assets/2d43967c-ebc2-4bd7-8210-513a2fc363a5" />
+
+Modeling the lead screw and crosshead helped me better understand how individual mechanical components work together in an assembly. I learned the importance of using accurate dimensions, aligning components properly, and making sure the threads and mating features fit together correctly. One challenge was creating the threaded lead screw and ensuring the crosshead could move along it as intended. This project improved my CAD modeling skills and taught me to pay closer attention to detail when designing parts that must interact with one another. Overall, I gained a better understanding of mechanical assemblies and how proper modeling can help ensure that a design functions as expected.
+
+
+Total time Brandon = 5 hours
+
+
+
+
+
 
 ## Lessons Learned 
 
