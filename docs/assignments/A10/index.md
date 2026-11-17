@@ -116,6 +116,7 @@ Below is the assembly completed. Everything worked very well and was completed a
 
 Modeling the lead screw and crosshead helped me better understand how individual mechanical components work together in an assembly. I learned the importance of using accurate dimensions, aligning components properly, and making sure the threads and mating features fit together correctly. One challenge was creating the threaded lead screw and ensuring the crosshead could move along it as intended. This project improved my CAD modeling skills and taught me to pay closer attention to detail when designing parts that must interact with one another. Overall, I gained a better understanding of mechanical assemblies and how proper modeling can help ensure that a design functions as expected.
 
+[Google Folder for CAD Files](https://drive.google.com/drive/folders/1nQlM7cM3rbcqljRFo6o5Ii-l7HKpFuqM?usp=sharing)
 
 Total time Brandon = 5 hours
 
