@@ -33,7 +33,21 @@ For the top of the frame, I loaded up the CAD assembly for our frame and started
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/25490138-3ea0-4ccd-bc12-bfdcb53eee5e" />
 
-I used this measurement to determine where to put the 1kN forces on the top of the frame.
+I used this measurement to determine where to put the 1kN forces on the top of the frame. I also added this distance to it
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c432fa16-70db-4d42-b3aa-01feee6ea865" />
+
+I then used this measurement to create a point on the surface of the beam that I could refer to when placing a force down. This did not work, which led me to having to sketch circles around the point. This also did not work, so I had to split the geometry for the face of the beam with the circles I sketched as seen here:
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bbe124e8-1aed-4e38-8d97-c99f936ab6a1" />
+
+I then realized that after a 50/50 chance, I did this on the side that was underneath for the assembly, leading me to having to redo this again. After all of this which took around an hour to learn how to put a single force on this one specific location, I had this:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/72f8b92d-5b83-4fa7-8c1b-a9c92a0a7714" />
+
+
+
 ## Design Floating Bearing Mount
 
 ## Bill of Materials and Labor costs 
