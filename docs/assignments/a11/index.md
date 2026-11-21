@@ -46,6 +46,29 @@ I then realized that after a 50/50 chance, I did this on the side that was under
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/72f8b92d-5b83-4fa7-8c1b-a9c92a0a7714" />
 
+I then ran the study (after crashes) and was left with these values:
+
+Mesh:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7c4fa56a-3dd2-4b32-bd2d-608980d7ace1" />
+
+
+
+**Von Misses**
+
+
+
+**Deflection**
+
+
+
+**Safety Factor**
+
+
+
+
+
+
 
 
 ## Design Floating Bearing Mount
