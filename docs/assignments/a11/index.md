@@ -96,7 +96,7 @@ I then ran the study and got these results:
 
 I got back a calculated safety factor of 12. This was way above the safety factor of 4, so I decided to deduct that this frame was built strong enough to not need any changes to the overall design. 
 
-
+Total time Nolan: 2 hours
 
 ## Design Floating Bearing Mount
 
@@ -104,3 +104,5 @@ I got back a calculated safety factor of 12. This was way above the safety facto
 
 
 ## Lessons Learned
+
+One lesson I learned throughout my portion of this assignment was that there can be a lot of bigger steps that are all new to you, just to complete something very small. It took me roughly half my total time for my part of this assignment just to learn how to create a point load in a specific spot in solidworks. The one good thing to come from that, is that I will not forget how to replicate this for a long time.  
