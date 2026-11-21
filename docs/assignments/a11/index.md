@@ -73,7 +73,28 @@ Safety factor was 7.7 everywhere.
 This safety factor was well above the project's given 4 value, so I decided it was good to move on to the Side of the frame.
 
 
+**Vertical Frame**
 
+To check the vertical frame, I ensured that the frame could withstand the 1000N from the leadscrew, as well as the torque from the lead screw (calculated to be 16.6 N*m). Here are my forces and constraints:
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/dea291c8-7c34-438f-b7dd-e715e8fc2764" />
+
+I then ran the study and got these results:
+
+**Von Misses**
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7d781d83-fcac-4f2e-8fdb-847dcf6091c1" />
+
+
+**Deflection**
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7f265017-b1c8-439f-b56a-2e165503775a" />
+
+
+**Safety Factor**
+
+
+I got back a calculated safety factor of 12. This was way above the safety factor of 4, so I decided to deduct that this frame was built strong enough to not need any changes to the overall design. 
 
 
 
