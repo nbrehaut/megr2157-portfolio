@@ -46,25 +46,31 @@ I then realized that after a 50/50 chance, I did this on the side that was under
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/72f8b92d-5b83-4fa7-8c1b-a9c92a0a7714" />
 
-I then ran the study (after crashes) and was left with these values:
-
 Mesh:
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7c4fa56a-3dd2-4b32-bd2d-608980d7ace1" />
 
+I then realized although not stated in the canvas page, the analysis was supposed to be done for just the beam and not the whole frame and crosshead together. I created these forces and fixtures:
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/23045c36-2740-4058-9dc5-502b9b4aabec" />
+
+After applying a material and running the study, I was left with these results:
 
 **Von Misses**
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a4b9c51b-c14b-466d-9092-7d1f883e7586" />
 
 
 **Deflection**
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/dc121c31-0b86-4515-b860-2e7979039f15" />
 
 
 **Safety Factor**
 
+Safety factor was 7.7 everywhere.
 
+This safety factor was well above the project's given 4 value, so I decided it was good to move on to the Side of the frame.
 
 
 
