@@ -21,7 +21,43 @@
 
 
 
+<img width="322" height="463" alt="image" src="https://github.com/user-attachments/assets/48bbbcd4-5f04-4e49-a52f-db28c975c1af" />
+
+
 ## Motor Selection and Attachments - Bryson Bare
+
+We selected the MOONS’ AM34HD2403-07 hybrid stepper motor because the tester must move slowly while pulling a high load. The stepper motor can provide controlled movement at low speeds, and this model has a listed holding torque of 9.4 N · m. We assumed that one motor would drive each lead screw, so each screw carries half of the tester's 2 kN load. The holding torque helped us identify a candidate, but we use the speed-torque curve to check the torque while the motor is running.
+
+
+<img width="622" height="708" alt="image" src="https://github.com/user-attachments/assets/dd7c04f5-cc4f-497d-bdfc-0285c8ea0697" />
+
+
+
+
+<img width="590" height="360" alt="image" src="https://github.com/user-attachments/assets/8913ad96-cb8d-4015-9826-f75897bd43c8" />
+
+
+
+**Motor Mount Design**
+
+
+After selecting the motor, we needed to design a motor mount to hold it. We designed a four-bolt motor mount to attach the motor securely to the tester frame. We calculated the force on each bolt from the motor’s reaction torque, checked the plates' bearing stress, and found the minimum thickness needed to meet the allowable stress. Because the minimum thickness was so thin, we selected a 10mm plate for a more practical and rigid mount. I also had to account for the thickness of the top of the frame when choosing the bolt lengths that will hold the mount to the frame. I chose 20 mm because the mount is 10 mm thick and the frame is 10 mm thick.
+
+
+<img width="612" height="812" alt="image" src="https://github.com/user-attachments/assets/f12ef486-26be-4728-a403-86b2163fbc6b" />
+
+
+**Coupling Design**
+
+
+
+We selected the McMaster-Carr 2764K425 coupler because its 14mm and ½ in bores match the motor shaft and the lead screws nominal diameter. This would connect the motor to the lead screw. The coupler is rated for 89 in*lbf, which is higher than our design torque. Its speed rating also exceeds the leads screws max speed. The flexible discs help accommodate any slight misalignment between the shafts. For a secure fit, the screw end will need to be a smooth section where it enters the coupling. 
+
+
+
+<img width="607" height="683" alt="image" src="https://github.com/user-attachments/assets/6bbcb905-0706-462f-8f56-67b5d1c7ff39" />
+
+Total Time Bryson - 5 hours
 
 ## Analyze and design a Frame - Nolan Brehaut
 
@@ -97,6 +133,7 @@ I then ran the study and got these results:
 I got back a calculated safety factor of 12. This was way above the safety factor of 4, so I decided to deduct that this frame was built strong enough to not need any changes to the overall design. 
 
 Total time Nolan: 2 hours
+
 
 ## Design Floating Bearing Mount
 
