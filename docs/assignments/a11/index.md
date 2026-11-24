@@ -38,7 +38,7 @@ We selected the MOONS’ AM34HD2403-07 hybrid stepper motor because the tester m
 
 
 
-**Motor Mount Design**
+**Motor Mount Design** 
 
 
 After selecting the motor, we needed to design a motor mount to hold it. We designed a four-bolt motor mount to attach the motor securely to the tester frame. We calculated the force on each bolt from the motor’s reaction torque, checked the plates' bearing stress, and found the minimum thickness needed to meet the allowable stress. Because the minimum thickness was so thin, we selected a 10mm plate for a more practical and rigid mount. I also had to account for the thickness of the top of the frame when choosing the bolt lengths that will hold the mount to the frame. I chose 20 mm because the mount is 10 mm thick and the frame is 10 mm thick.
@@ -135,9 +135,32 @@ I got back a calculated safety factor of 12. This was way above the safety facto
 Total time Nolan: 2 hours
 
 
-## Design Floating Bearing Mount
+## Design Floating Bearing Mount -  Brandon Hudson
 
-## Bill of Materials and Labor costs 
+
+I first started designing the motor mount with the dimensions Bryson came up with in the math above. Below is the sketch of the motor mount. 
+
+<img width="445" height="332" alt="image" src="https://github.com/user-attachments/assets/a5fd0f9f-9489-4a3c-95b6-74f3e2609dce" />
+
+After doing the sketch I completed the extrude which was a total of 10mm. I then created the 4 holes on the mount and dimensioned them to the correct dimensions given to me by Bryson.  Below is the motor mount after this extrude and the holes inserted. 
+
+<img width="461" height="311" alt="image" src="https://github.com/user-attachments/assets/50f31fac-02d3-44b2-a03a-22269f24c407" />
+
+After completing the extrude and holes I finished up the motor mount. Below is the final product of the motor mount. 
+
+<img width="428" height="300" alt="image" src="https://github.com/user-attachments/assets/ff69e094-7401-4fe0-894f-869ba91041e9" />
+
+
+I then moved onto the assembly by downloading the couplings, motor, and screws needed to fully assemble the motor and frame. I got all the parts needed and began assembling the finished product. Below is the final assembly. 
+
+
+<img width="215" height="251" alt="image" src="https://github.com/user-attachments/assets/3797d40c-eda7-4453-83b2-ba5d8ac4d48f" />
+
+
+<img width="202" height="222" alt="image" src="https://github.com/user-attachments/assets/467bdf51-4b73-4b65-8bc8-9cfbb7d14d6a" />
+
+
+## Bill of Materials and Labor costs - Brandon Hudson
 
 | Item # | Quantity | Name | Cost/item | Cost | Link |
 |:---|:---:|:---|---:|---:|:---|
@@ -151,6 +174,12 @@ Total time Nolan: 2 hours
 | **Total Cost** | | | | **$1,190.72** | |
 
 
+Total time Brandon - 8 hours
+
+
 ## Lessons Learned
 
 One lesson I learned throughout my portion of this assignment was that there can be a lot of bigger steps that are all new to you, just to complete something very small. It took me roughly half my total time for my part of this assignment just to learn how to create a point load in a specific spot in solidworks. The one good thing to come from that, is that I will not forget how to replicate this for a long time.  
+
+
+[Google Folder with CAD](https://drive.google.com/drive/folders/16NzgxDtks0Jcl7XMD67j7Hv-oHWpTYXf?usp=sharing)
