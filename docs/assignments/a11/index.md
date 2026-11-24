@@ -179,7 +179,7 @@ Total time Brandon - 8 hours
 
 ## Lessons Learned
 
-One lesson I learned throughout my portion of this assignment was that there can be a lot of bigger steps that are all new to you, just to complete something very small. It took me roughly half my total time for my part of this assignment just to learn how to create a point load in a specific spot in solidworks. The one good thing to come from that, is that I will not forget how to replicate this for a long time.  
+One lesson I learned throughout my portion of this assignment was that there can be a lot of bigger steps that are all new to you, just to complete something very small. It took me roughly half my total time for my part of this assignment just to learn how to create a point load in a specific spot in solidworks. The one good thing to come from that, is that I will not forget how to replicate this for a long time. 
 
 
 [Google Folder with CAD](https://drive.google.com/drive/folders/16NzgxDtks0Jcl7XMD67j7Hv-oHWpTYXf?usp=sharing)
