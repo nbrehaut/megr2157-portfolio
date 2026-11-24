@@ -100,7 +100,7 @@ After applying a material and running the study, I was left with these results:
 **Deflection**
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/dc121c31-0b86-4515-b860-2e7979039f15" />
-
+  
 
 **Safety Factor**
 
@@ -138,6 +138,17 @@ Total time Nolan: 2 hours
 ## Design Floating Bearing Mount
 
 ## Bill of Materials and Labor costs 
+
+| Item # | Quantity | Name | Cost/item | Cost | Link |
+|:---|:---:|:---|---:|---:|:---|
+| AM34HD2403-07 | 2 | Hybrid Stepper Motor | $198.00 | $396.00 | [MOONS' - AM34HD2403-07](https://www.moonsindustries.com/p/am-series-standard-hybrid-stepper-motors/am34hd2403-07-000004611110010745) |
+| 2764K425 | 2 | Shaft Coupling | $118.34 | $236.68 | [McMaster-Carr](https://www.mcmaster.com/2764K425/) |
+| 91274A141 | 1 pack (50) | Socket Head Screw | $10.63 / 50 | $10.63 | [McMaster-Carr](https://www.mcmaster.com/91274A141/) |
+| 98940A305 | 2 | Lead Screw | $28.64 | $54.56 | [McMaster-Carr](https://www.mcmaster.com/98940A305/) |
+| 97790A110 | 2 | Flange Nut | $178.60 | $357.20 | [McMaster-Carr](https://www.mcmaster.com/97790A110/) |
+| 92316A540 | 4 | Socket Head Screw | $10.02 / 50 | $10.02 | [McMaster-Carr](https://www.mcmaster.com/92316A540/) |
+| 47065T882 | 1 | Frame | $125.63 | $125.63 | [McMaster-Carr](https://www.mcmaster.com/47065T882-47065T752/) |
+| **Total Cost** | | | | **$1,190.72** | |
 
 
 ## Lessons Learned
